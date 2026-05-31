@@ -1,6 +1,7 @@
 *Hey Exponential team, thanks for having me. Here's my showcase.*
 
 **Best with:** Python · PyTorch · Transformers · FastAPI · NLP · Reinforcement Learning
+
 **Familiar with:** TypeScript · Next.js · React · AWS · PostgreSQL · Docker
 
 > 💡 **TL;DR** I'm an ML Engineer who builds intelligent systems end-to-end and ships them to production. I took Arbolus's expert recommendation engine from 16 to 1,100 matches in 6 months (70x), launched an open-source AI security tool to 55+ organic users, and have a paper on RL-based adversarial defense targeting EMNLP 2026. I'm looking for an early-stage AI startup where I can learn fast, have real impact, and work alongside people who push me to be better.
