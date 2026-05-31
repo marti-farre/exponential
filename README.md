@@ -1,5 +1,3 @@
-*Hey Exponential team, thanks for having me. Here's my showcase.*
-
 **Best with:** Python · PyTorch · Transformers · FastAPI · NLP · Reinforcement Learning
 
 **Familiar with:** TypeScript · Next.js · React · AWS · PostgreSQL · Docker
