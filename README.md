@@ -25,11 +25,11 @@ ML Engineer at [Arbolus](https://www.arbolus.com) (expert network SaaS, Barcelon
 | Project | Role & stack | Impact / Demo |
 | --- | --- | --- |
 | **Customer Lens + Thinking Lens** | Solo ML eng · XLM-RoBERTa · GLiNER · Ollama · FastAPI · AWS | 16 to 1,100 matches in 6 months · primary acquisition engine at Arbolus · video walkthrough |
-| **Temper Labs** | Solo dev · Next.js 15 · TypeScript · Multi-provider LLM APIs | [Live demo](https://temperlabs.dev) · [GitHub](https://github.com/marti-farre/temper-labs) · 70+ organic test runs from HN/Reddit launch |
+| **Temper Labs** | Solo dev · Next.js 15 · TypeScript · Multi-provider LLM APIs | [Website](https://temperlabs.dev) · [GitHub](https://github.com/marti-farre/temper-labs) · 70+ organic test runs from HN/Reddit launch |
 | **Tilion** *(shut down)* | Solo founder · Full product + GTM | Built, did outreach and customer discovery, shut down after no PMF. [Landing page](https://tilion.vercel.app) |
 | **MACABEU** | Researcher · PyTorch · DQN · BODEGA benchmark | [GitHub](https://github.com/marti-farre/macabeu) · Paper targeting EMNLP 2026 |
 
-*More builds:* [Opportunity Scout](https://opp-scoutr.vercel.app) (AI-powered opportunity finder, Next.js + OpenAI web search + Helicone).
+*More builds:* [Opp Scout](https://opp-scoutr.vercel.app) (AI-powered opportunity finder, Next.js + OpenAI web search + Helicone).
 
 ### Experience (TL;DR)
 
