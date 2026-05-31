@@ -14,22 +14,20 @@ ML Engineer at [Arbolus](https://www.arbolus.com) (expert network SaaS, Barcelon
 
 ### Main Achievements
 
-**Scaled expert matching 70x.** Redesigned Arbolus's recommendation engine (Customer Lens) from scratch with three specialized XLM-RoBERTa classifiers + a deterministic LLM orchestrator (Thinking Lens). Went from 16 to 1,100 matched experts in 6 months. A/B tested with n=401, p=0.016. Became the ML foundation for Arbolus's strategic pivot to SaaS.
+**Scaled expert matching 70x.** Redesigned Arbolus's recommendation engine (Customer Lens) from scratch with three specialized XLM-RoBERTa classifiers + a deterministic LLM orchestrator (Thinking Lens). Went from 16 to 1,100 matched experts in 6 months. Became the ML foundation for Arbolus's pivot to SaaS.
 
-**Launched an open-source security tool with zero marketing budget.** Temper Labs hit 55+ organic test runs from a Reddit and Hacker News launch alone.
+**Launched an open-source security tool with zero marketing budget.** Temper Labs hit 70+ organic test runs from a Reddit and Hacker News launch alone.
 
 **60% training time reduction on OmniMotion.** Visiting researcher at University of Bern, optimizing a state-of-the-art video motion estimation model.
 
-**Thesis targeting EMNLP 2026.** MACABEU, a DQN-based contextual bandit that dynamically selects the optimal defense pipeline per input against adversarial NLP attacks.
-
-**Enabled a company pivot.** The Customer Lens infrastructure I built became the ML foundation for Arbolus's strategic pivot to SaaS, now selling customer intelligence as a standalone product.
+**Thesis targeting EMNLP 2026.** MACABEU, a DQN-based contextual bandit that dynamically selects the optimal defense pipeline per input against adversarial NLP attacks
 
 ### Most-Prideful Builds
 
 | Project | Role & stack | Impact / Demo |
 | --- | --- | --- |
-| **Customer Lens + Thinking Lens** | Solo ML eng · XLM-RoBERTa · GLiNER · Ollama · FastAPI · AWS | 16 → 1,100 matches in 6 months · primary acquisition engine at Arbolus · video walkthrough |
-| **Temper Labs** | Solo dev · Next.js 15 · TypeScript · Multi-provider LLM APIs | [Live demo](https://temperlabs.dev) · [GitHub](https://github.com/marti-farre/temper-labs) · 55+ organic test runs from HN/Reddit launch |
+| **Customer Lens + Thinking Lens** | Solo ML eng · XLM-RoBERTa · GLiNER · Ollama · FastAPI · AWS | 16 to 1,100 matches in 6 months · primary acquisition engine at Arbolus · video walkthrough |
+| **Temper Labs** | Solo dev · Next.js 15 · TypeScript · Multi-provider LLM APIs | [Live demo](https://temperlabs.dev) · [GitHub](https://github.com/marti-farre/temper-labs) · 70+ organic test runs from HN/Reddit launch |
 | **Tilion** *(shut down)* | Solo founder · Full product + GTM | Built, did outreach and customer discovery, shut down after no PMF. [Landing page](https://tilion.vercel.app) |
 | **MACABEU** | Researcher · PyTorch · DQN · BODEGA benchmark | [GitHub](https://github.com/marti-farre/macabeu) · Paper targeting EMNLP 2026 |
 
