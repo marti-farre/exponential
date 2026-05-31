@@ -26,7 +26,7 @@ ML Engineer at [Arbolus](https://www.arbolus.com) (expert network SaaS, Barcelon
 | --- | --- | --- |
 | **Customer Lens + Thinking Lens** | Solo ML eng · XLM-RoBERTa · GLiNER · Ollama · FastAPI · AWS | 16 to 1,100 matches in 6 months · primary acquisition engine at Arbolus · video walkthrough |
 | **Temper Labs** | Solo dev · Next.js 15 · TypeScript · Multi-provider LLM APIs · Supabase · Vercel | [Website](https://temperlabs.dev) · [GitHub](https://github.com/marti-farre/temper-labs) · 70+ organic test runs from HN/Reddit launch |
-| **Tilion** *(shut down)* | Solo founder · Full product + GTM | Built, did outreach and customer discovery, shut down after no PMF. [Landing page](https://tilion.vercel.app) |
+| **Tilion** *(shut down)* | Solo founder · Landing page + mock product + GTM | Built, did some outreach and customer discovery, shut down after no PMF. [Landing page](https://tilion.vercel.app) |
 | **Opp Scout** | Solo Dev · Next.js · OpenAI web search · Helicone · Supabase · Vercel | [Opp Scout](https://opp-scoutr.vercel.app) · AI-powered opportunity finder, Next.js + OpenAI web search + Helicone |
 | **MACABEU** | Researcher · PyTorch · DQN · RL | [GitHub](https://github.com/marti-farre/macabeu) · Paper targeting EMNLP 2026 |
 
